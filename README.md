@@ -1,27 +1,19 @@
 # group-website
-Repo for learning how to make websites with GitHub pages
-
-## Contents
-* [Learning Markdown](#learning-markdown)
-* [Carpentries Lesson programs](#carpentries-lesson-programs)
+Repo for learning how to make websites with Jekyll and GitHub pages
 
 ## Learning Markdown
 
-Vanilla text contain *italics* and **bold**.
+Vanilla text may contain *italics* and **bold words**.
 
 This paragraph is separated from the previous one by a blank line.
-Line breaks  
+Line breaks
 are caused by two trailing spaces at the end of a line.
 
-[Carpentries website](https://carpentries.org/)
+[Carpentries Webpage](https://carpentries.org/)
 
-### Carpentries Lesson programs:
-1. Software carpentry
-2. Data carpentry
-3. Library carpentry
-    1. Section 1
-    2. Section 2
-4. Philosophers carpentry
+### Carpentries Lesson Programs:
+- Software Carpentry
+- Data Carpentry
+- Library Carpentry
 
-![University of Leeds Logo](./unileedslogo.png)  
-University of Leeds Logo, copyright University of Leeds 2022.
+![Carpentries Logo](https://raw.githubusercontent.com/carpentries/carpentries.org/main/images/TheCarpentries-opengraph.png)
